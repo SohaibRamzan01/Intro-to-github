@@ -1,2 +1,2 @@
-# Intro-to-github
+# My-Repo
 Introduction to Github
